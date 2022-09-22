@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.5d081961.css",
+    "main.js": "/My-Portfolio/static/js/main.76e446e3.js",
+    "static/media/FotoKu.png": "/My-Portfolio/static/media/FotoKu.daaf058cc0966da05952.png",
+    "static/media/4.PNG": "/My-Portfolio/static/media/4.43ef42ccbab5867f60ff.PNG",
+    "static/media/3.PNG": "/My-Portfolio/static/media/3.e79b983053de93bc8b53.PNG",
+    "static/media/2.PNG": "/My-Portfolio/static/media/2.f525d327ebea3a05debc.PNG",
+    "static/media/FotoKu2.png": "/My-Portfolio/static/media/FotoKu2.d694cfb419d19bd22604.png",
+    "static/media/Terbaru.png": "/My-Portfolio/static/media/Terbaru.fece29d3d0ca91ea2eba.png",
+    "static/media/1.PNG": "/My-Portfolio/static/media/1.feba2a9b8eac76c15447.PNG",
+    "index.html": "/My-Portfolio/index.html",
+    "main.5d081961.css.map": "/My-Portfolio/static/css/main.5d081961.css.map",
+    "main.76e446e3.js.map": "/My-Portfolio/static/js/main.76e446e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d081961.css",
+    "static/js/main.76e446e3.js"
+  ]
+}
